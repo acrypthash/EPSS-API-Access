@@ -3,7 +3,7 @@
 Weekly import of EPSS vulnerabilities
 
 
-Vulnerability remediation has some fundamental truths. First, there are too many vulnerabilities to fix them all immediately. Past research has shown that firms are able to fix between 5% and 20% of known vulnerabilities per month. Secondly, only a small subset (2%-7% of published vulnerabilities
+Vulnerability remediation has some fundamental truths. First, there are too many vulnerabilities to fix them all immediately. Past research has shown that firms are able to fix between 5% and 20% of known vulnerabilities per month. Secondly, only a small subset (2%-7%) of published vulnerabilities
 are ever seen to be exploited in the wild. These truths set up both the need and the justification for good prioritization techniques since firms both cannot and do not need to fix everything immediately.
 
 Vulnerability remediation
