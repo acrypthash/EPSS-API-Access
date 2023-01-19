@@ -16,7 +16,7 @@ headers = {
  'Content-Type': 'application/json; charset=utf-8'
  }
 
-#API Request, conversion to json, formatting to pandas table, prints table
+#API Request
 r = requests.get(url, headers=headers)
 
 #panda stuff that was used for reviewing in terminal
